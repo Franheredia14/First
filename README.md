@@ -1,2 +1,2 @@
 # First
-Repositorio de prueba
+Este repositorio es una prueba de cómo crear un repositorio en GitHub.
